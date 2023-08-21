@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/rhahudson1/portfolio-website.git/static/css/main.fbc00891.css",
+    "main.js": "/rhahudson1/portfolio-website.git/static/js/main.cf80c91c.js",
+    "index.html": "/rhahudson1/portfolio-website.git/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.fbc00891.css",
+    "static/js/main.cf80c91c.js"
+  ]
+}
